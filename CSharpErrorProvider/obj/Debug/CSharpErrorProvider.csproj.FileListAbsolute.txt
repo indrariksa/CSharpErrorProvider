@@ -1,0 +1,10 @@
+F:\Github\CSharp\CSharpErrorProvider\CSharpErrorProvider\bin\Debug\CSharpErrorProvider.exe.config
+F:\Github\CSharp\CSharpErrorProvider\CSharpErrorProvider\bin\Debug\CSharpErrorProvider.exe
+F:\Github\CSharp\CSharpErrorProvider\CSharpErrorProvider\bin\Debug\CSharpErrorProvider.pdb
+F:\Github\CSharp\CSharpErrorProvider\CSharpErrorProvider\obj\Debug\CSharpErrorProvider.csproj.AssemblyReference.cache
+F:\Github\CSharp\CSharpErrorProvider\CSharpErrorProvider\obj\Debug\CSharpErrorProvider.Form1.resources
+F:\Github\CSharp\CSharpErrorProvider\CSharpErrorProvider\obj\Debug\CSharpErrorProvider.Properties.Resources.resources
+F:\Github\CSharp\CSharpErrorProvider\CSharpErrorProvider\obj\Debug\CSharpErrorProvider.csproj.GenerateResource.cache
+F:\Github\CSharp\CSharpErrorProvider\CSharpErrorProvider\obj\Debug\CSharpErrorProvider.csproj.CoreCompileInputs.cache
+F:\Github\CSharp\CSharpErrorProvider\CSharpErrorProvider\obj\Debug\CSharpErrorProvider.exe
+F:\Github\CSharp\CSharpErrorProvider\CSharpErrorProvider\obj\Debug\CSharpErrorProvider.pdb

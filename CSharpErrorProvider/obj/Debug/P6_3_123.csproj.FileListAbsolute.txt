@@ -1,0 +1,21 @@
+C:\Users\INDRA\source\repos\P6_3_123\P6_3_123\bin\Debug\P6_3_123.exe.config
+C:\Users\INDRA\source\repos\P6_3_123\P6_3_123\bin\Debug\P6_3_123.exe
+C:\Users\INDRA\source\repos\P6_3_123\P6_3_123\bin\Debug\P6_3_123.pdb
+C:\Users\INDRA\source\repos\P6_3_123\P6_3_123\obj\Debug\P6_3_123.csproj.AssemblyReference.cache
+C:\Users\INDRA\source\repos\P6_3_123\P6_3_123\obj\Debug\P6_3_123.csproj.SuggestedBindingRedirects.cache
+C:\Users\INDRA\source\repos\P6_3_123\P6_3_123\obj\Debug\P6_3_123.Form1.resources
+C:\Users\INDRA\source\repos\P6_3_123\P6_3_123\obj\Debug\P6_3_123.Properties.Resources.resources
+C:\Users\INDRA\source\repos\P6_3_123\P6_3_123\obj\Debug\P6_3_123.csproj.GenerateResource.cache
+C:\Users\INDRA\source\repos\P6_3_123\P6_3_123\obj\Debug\P6_3_123.csproj.CoreCompileInputs.cache
+C:\Users\INDRA\source\repos\P6_3_123\P6_3_123\obj\Debug\P6_3_123.exe
+C:\Users\INDRA\source\repos\P6_3_123\P6_3_123\obj\Debug\P6_3_123.pdb
+F:\Materi\2023-2024\Pemrograman II\Repo\PemrogramanII_PBO\Pertemuan06\Praktikum\P6_3_123\P6_3_123\bin\Debug\P6_3_123.exe.config
+F:\Materi\2023-2024\Pemrograman II\Repo\PemrogramanII_PBO\Pertemuan06\Praktikum\P6_3_123\P6_3_123\bin\Debug\P6_3_123.exe
+F:\Materi\2023-2024\Pemrograman II\Repo\PemrogramanII_PBO\Pertemuan06\Praktikum\P6_3_123\P6_3_123\bin\Debug\P6_3_123.pdb
+F:\Materi\2023-2024\Pemrograman II\Repo\PemrogramanII_PBO\Pertemuan06\Praktikum\P6_3_123\P6_3_123\obj\Debug\P6_3_123.csproj.AssemblyReference.cache
+F:\Materi\2023-2024\Pemrograman II\Repo\PemrogramanII_PBO\Pertemuan06\Praktikum\P6_3_123\P6_3_123\obj\Debug\P6_3_123.Form1.resources
+F:\Materi\2023-2024\Pemrograman II\Repo\PemrogramanII_PBO\Pertemuan06\Praktikum\P6_3_123\P6_3_123\obj\Debug\P6_3_123.Properties.Resources.resources
+F:\Materi\2023-2024\Pemrograman II\Repo\PemrogramanII_PBO\Pertemuan06\Praktikum\P6_3_123\P6_3_123\obj\Debug\P6_3_123.csproj.GenerateResource.cache
+F:\Materi\2023-2024\Pemrograman II\Repo\PemrogramanII_PBO\Pertemuan06\Praktikum\P6_3_123\P6_3_123\obj\Debug\P6_3_123.csproj.CoreCompileInputs.cache
+F:\Materi\2023-2024\Pemrograman II\Repo\PemrogramanII_PBO\Pertemuan06\Praktikum\P6_3_123\P6_3_123\obj\Debug\P6_3_123.exe
+F:\Materi\2023-2024\Pemrograman II\Repo\PemrogramanII_PBO\Pertemuan06\Praktikum\P6_3_123\P6_3_123\obj\Debug\P6_3_123.pdb
